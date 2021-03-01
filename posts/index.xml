@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://cf19santiago.github.io/demo-dimecres/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Feb 2021 15:18:54 +0100</lastBuildDate>
+    
+	<atom:link href="https://cf19santiago.github.io/demo-dimecres/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organització del projecte</title>
+      <link>https://cf19santiago.github.io/demo-dimecres/posts/my-first-post/</link>
+      <pubDate>Thu, 25 Feb 2021 15:18:54 +0100</pubDate>
+      
+      <guid>https://cf19santiago.github.io/demo-dimecres/posts/my-first-post/</guid>
+      <description>Nosaltres tenim el nostre projecte organitzat de la següent manera:
+-Primer, personalitzarem el domini entre tots, escollirem el nom del mateix, amb quin esquema crearem les direccions de mail web etc.
+-Segon, buscarem informació de com crear certificats servidor-client i els farem per el servidor web.
+-Tercer, probarem la instalació del servidor en docker a dins de la màquina dmzf
+-Quart, farem les altes i baixes dels usuaris a través de comandes crudes o de forma automatitzada.</description>
+    </item>
+    
+  </channel>
+</rss>
